@@ -1,0 +1,26 @@
+div{
+    height: 32%;
+    width: 100%;
+}
+.fr{
+    background-color: blue;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+
+.sc{
+    background-color: red;
+    position: absolute;
+    left: 0px;
+    top: 33.33%;
+
+}
+
+.th{
+    background-color : black;
+    position: absolute;
+    left: 0px;
+    top: 66.66%;
+}
+
