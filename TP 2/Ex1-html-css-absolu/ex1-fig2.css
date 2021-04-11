@@ -1,0 +1,26 @@
+#fr{
+    background-color: blue;
+    width: 33.33%;
+    height: 33.33%;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+
+#sc{
+    background-color: red;
+    width: 33.33%;
+    height: 33.33%;
+    position: absolute;
+    left: 33.33%;
+    top: 33.33%;
+}
+
+#th{
+    background-color : black;
+    width: 33.33%;
+    height: 33.33%;
+    position: absolute;
+    left: 66.66%;
+    top: 66.66%;
+}

@@ -1,0 +1,24 @@
+div {
+    height: 48vh;
+}
+
+.div1{
+    background-color: blue;
+}
+
+.div2{
+    background-color: red;
+    width: 49vw;
+    display: inline-block;
+    position: relative;
+    top: 4vh;
+}
+
+.div3{
+    background-color: black;
+    width: 49vw;
+    display: inline-block;
+    position: relative;
+    top: 4vh;
+    left: 2vw;
+}
