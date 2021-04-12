@@ -1,5 +1,6 @@
 #header{
-    height: 14vh;
+    height: 13.5vh;
+    display: inline-block;
     background-color: black;
     width: 100vw;
 }
@@ -7,6 +8,7 @@
 #sec0{
     height: 8vh;
     background-color: blue;
+    display: inline-block;
     width: 100vw;
     position: relative;
     top: 2vh;
@@ -16,33 +18,30 @@
     height: 28vh;
     width: 22vw;
     display: inline-block;
+    position: relative;
+    top: 4vh;
 }
 
 #sec1{
     background-color: blueviolet;
-    position: relative;
-    top: 4vh;
 }
 
 #sec2{
     background-color: rgb(143, 137, 150);
     position: relative;
     left: 4vw;
-    top: 4vh;
 }
 
 #sec3{
     background-color: rgb(102, 50, 151);
     position: relative;
     left: 8vw;
-    top: 4vh;
 }
 
 #sec4{
     background-color: rgb(192, 135, 30);
     position: relative;
     left: 12vw;
-    top: 4vh;
 }
 
 .row4{
@@ -66,8 +65,9 @@
 
 #footer{
     background-color: cadetblue;
-    height: 14vh;
+    height: 13.5vh;
     width: 100vw;
     position: relative;
     top: 8vh;
+    display: inline-block;
 }
