@@ -164,6 +164,7 @@ body{
         background-color: blue;
         position: absolute;
         top: 11.25vh;
+        left: 0px;
     }
     
     .row3{
@@ -208,6 +209,7 @@ body{
         background-color: rgb(95, 94, 91);
         position: absolute;
         top: 67.5vh;
+        left: 0%
     }
     
     #sec6{
@@ -222,6 +224,7 @@ body{
         height: 10vh;
         position: absolute;
         top: 90vh;
+        left: 0%;
     }
 }
 
