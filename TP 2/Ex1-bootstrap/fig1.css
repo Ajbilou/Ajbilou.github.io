@@ -1,0 +1,15 @@
+.row{
+    height: 48vh;
+}
+
+#div1{
+    background-color: blue;
+}
+
+#div2{
+    background-color: red;
+}
+
+#div3{
+    background-color: black;
+}
